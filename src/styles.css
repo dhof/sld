@@ -1,0 +1,27 @@
+/* global styles */
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+
+.container {
+	background-color: black;
+	height: 100%;
+}
+
+
+.image-footer {
+	bottom: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+}
